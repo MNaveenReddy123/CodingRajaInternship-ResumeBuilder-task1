@@ -5,3 +5,7 @@
     object-fit: cover; /* Ensures the image covers the entire area without distortion */
     margin-bottom: 20px;
 }
+body{
+    background: #5fb49c
+    
+}

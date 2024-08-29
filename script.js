@@ -45,6 +45,7 @@ document.getElementById('resume-form').addEventListener('submit', function(e) {
 });
 
 document.getElementById('download-resume').addEventListener('click', function() {
+    
     const resume = document.getElementById('resume-preview').innerHTML;
     const opt = {
         margin: 1,

@@ -1,5 +1,7 @@
 Resume Builder
-This project is a simple Resume Builder created as part of my web development internship at Coding Raja Technologies. The application allows users to input their details and generate a resume, which can then be downloaded.
+
+
+This project is a Resume Builder created as part of my web development internship at Coding Raja Technologies. The application allows users to input their details and generate a resume, which can then be downloaded.
 
 Features
 User Input: Users can enter their personal details, education, work experience, skills, and other relevant information.
